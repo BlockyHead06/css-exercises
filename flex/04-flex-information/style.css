@@ -21,6 +21,10 @@ img {
   padding: 40px;
 }
 
+.item {
+  flex: 0 0 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
