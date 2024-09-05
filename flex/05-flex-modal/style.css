@@ -39,6 +39,12 @@ body {
   flex-shrink: 0;
 }
 
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 5px;
+}
+
 .header {
   font-weight: bold;
   font-size: larger;
