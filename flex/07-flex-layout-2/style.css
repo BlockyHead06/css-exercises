@@ -11,6 +11,9 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-weight: 1000;
+  height: fit-content;
+  padding: 10px;
 }
 
 .footer {
