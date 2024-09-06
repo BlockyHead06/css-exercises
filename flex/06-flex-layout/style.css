@@ -12,6 +12,10 @@ body {
   justify-content: space-between;
 }
 
+.left-links, .right-links {
+  padding: 10px;
+}
+
 ul {
   list-style: none;
   padding: 0;
