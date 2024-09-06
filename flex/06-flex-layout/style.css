@@ -7,6 +7,11 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 ul {
   list-style: none;
   padding: 0;
