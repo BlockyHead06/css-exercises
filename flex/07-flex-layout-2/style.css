@@ -43,6 +43,10 @@ ul {
   margin: 0;
 }
 
+li {
+  margin-bottom: 15px;
+}
+
 a {
   color: white;
   text-decoration: none;
