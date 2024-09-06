@@ -19,6 +19,10 @@ body {
   color: darkmagenta;
 }
 
+.content {
+  flex: auto;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
