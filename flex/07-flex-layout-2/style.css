@@ -43,6 +43,11 @@ ul {
   margin: 0;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .cards {
   display: flex;
   flex-wrap: wrap;
