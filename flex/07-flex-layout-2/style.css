@@ -34,7 +34,8 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  width: 400px;
+  width: 300px;
+  flex: none;
 }
 
 ul {
