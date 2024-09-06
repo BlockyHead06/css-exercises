@@ -21,6 +21,7 @@ body {
 
 .content {
   flex: auto;
+  display: flex;
 }
 
 .sidebar {
