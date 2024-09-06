@@ -12,6 +12,10 @@ body {
   justify-content: space-between;
 }
 
+.footer {
+  background-color: rgb(238, 238, 238);
+}
+
 .left-links, .right-links {
   padding: 10px;
 }
